@@ -1,0 +1,409 @@
+body {
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+}
+
+#page {
+	display: flex;
+	position: absolute;
+	background-image: none;
+	border-width: 0;
+	border-color: #000;
+	background-color: transparent;
+	padding-bottom: 18px;
+	margin-left: auto;
+	margin-right: auto
+}
+
+#u695 {
+	width: 282px;
+	height: 99px;
+	position: fixed;
+	top: 35px;
+	right: 10px;
+}
+
+#u714 {
+	width: 71px;
+	height: 21px;
+	position: fixed;
+	top: 177px;
+	right: 20px
+}
+
+#online {
+	width: 58px;
+	min-height: 12px;
+	position: fixed;
+	top: 95px;
+	right: 100px
+}
+
+#u720-4 {
+	width: 219px;
+	min-height: 12px;
+	position: fixed;
+	top: 92px;
+	right: 99px
+}
+
+#u751 {
+	width: 71px;
+	height: 21px;
+	position: fixed;
+	top: 201px;
+	right: 20px
+}
+
+#playerid {
+	width: 58px;
+	min-height: 12px;
+	position: fixed;
+	top: 95px;
+	right: 180px
+}
+
+#u753-4 {
+	width: 219px;
+	min-height: 12px;
+	position: fixed;
+	top: 92px;
+	right: 175px
+}
+
+#u760 {
+	width: 71px;
+	height: 21px;
+	position: fixed;
+	top: 128px;
+	right: 20px
+}
+
+#cashmoney {
+	display: none;
+	width: 58px;
+	min-height: 12px;
+	position: fixed;
+	top: 246px;
+	right: 10px
+}
+
+#u762-4 {
+	font-style: italic;
+	width: 219px;
+	min-height: 12px;
+	position: fixed;
+	top: 248px;
+	right: 35px
+}
+
+#u769 {
+	width: 71px;
+	height: 21px;
+	position: fixed;
+	top: 152px;
+	right: 20px
+}
+
+#bankmoney {
+	width: 58px;
+	min-height: 12px;
+	position: fixed;
+	top: 278px;
+	right: 10px
+}
+
+#u771-4 {
+	width: 219px;
+	min-height: 12px;
+	position: fixed;
+	top: 275px;
+	right: 50px
+}
+
+#u778 {
+	width: 71px;
+	height: 21px;
+	position: fixed;
+	top: 103px;
+	right: 20px
+}
+
+#date {
+	display: none;
+	width: 71px;
+	height: 21px;
+	position: fixed;
+	bottom: 2px;
+	right: 20px
+}
+
+#time {
+	width: 58px;
+	min-height: 12px;
+	position: fixed;
+	bottom: 55px;
+	right: 90px
+}
+
+#u780-4 {
+	width: 219px;
+	min-height: 12px;
+	position: fixed;
+	bottom: 52px;
+	right: 30px
+}
+
+
+#u111-6 {
+	width: 219px;
+	min-height: 12px;
+	position: fixed;
+	bottom: 30px;
+	right: 30px
+}
+
+.html {
+	background: #fff url(../images/20201123202640_1.jpg?crc=3998716446) repeat left top scroll
+}
+
+body {
+	position: relative;
+	min-width: 1716px
+}
+
+#u695 {
+	opacity: 1;
+	background: url(logo.png) no-repeat center center;
+	background-size: 100%;
+}
+
+#u714 {
+	background: none;
+}
+
+#u751 {
+	background: none;
+}
+
+#u760 {
+	background: none;
+}
+
+#u769 {
+	background: none;
+}
+
+#u778 {
+	background: none;
+}
+
+#u111 {
+	background: none;
+}
+
+#online {
+	background-color: transparent;
+	text-align: center;
+	color: #f8fe1c;
+	font-weight: 700;
+}
+
+#playerid {
+	background-color: transparent;
+	text-align: center;
+	color: #f8fe1c;
+	font-weight: 700;
+}
+
+#cashmoney,
+#bankmoney,
+#time {
+	background-color: transparent;
+	text-align: center;
+	color: #f8fe1c;
+	font-weight: 900;
+}
+
+#date {
+	background-color: transparent;
+	text-align: center;
+	color: #fff;
+	font-weight: 900;
+}
+
+#u720-4,
+#u753-4 {
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	text-align: right;
+	color: #fff;
+	font-weight: 700
+}
+
+#u762-4 {
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 24px;
+	text-align: right;
+	color: #fff;
+	font-weight: 700
+}
+
+#u771-4 {
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 16px;
+	text-align: right;
+	color: #fff;
+	font-weight: 400
+}
+
+#u111-6,
+#u780-4 {
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	text-align: right;
+	color: #fff;
+	font-weight: 400
+}
+
+html {
+	min-height: 100%;
+	min-width: 100%;
+	-ms-text-size-adjust: none
+}
+
+body,
+div,
+p {
+	margin: 0;
+	padding: 0;
+	border-width: 0;
+	border-style: solid;
+	border-color: transparent;
+	-webkit-transform-origin: left top;
+	-ms-transform-origin: left top;
+	-o-transform-origin: left top;
+	transform-origin: left top;
+	background-repeat: no-repeat
+}
+
+body {
+	font-family: 'Poppins', sans-serif;
+	text-align: left;
+	font-size: 14px;
+	line-height: 17px;
+	word-wrap: break-word;
+	text-rendering: optimizeLegibility;
+	-moz-font-feature-settings: 'liga';
+	-ms-font-feature-settings: 'liga';
+	-webkit-font-feature-settings: 'liga';
+	font-feature-settings: 'liga'
+}
+
+.clearfix:after {
+	content: "\0020";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both
+}
+
+[data-whatinput=mouse] :focus,
+[data-whatinput=touch] :focus {
+	outline: 0
+}
+
+p {
+	max-height: 1000000px
+}
+
+.verticalspacer {
+	clear: both
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	body {
+		text-rendering: auto
+	}
+}
+
+#phone {
+	position: fixed;
+	top: 406px;
+	right: 25px;
+	color: #ffffffc2;
+}
+
+#interact {
+	position: fixed;
+	top: 448px;
+	right: 20px;
+	color: #ffffffc2;
+}
+
+#fight {
+	position: fixed;
+	top: 487px;
+	right: 20px;
+	color: #ffffffc2;
+}
+
+#map {
+	position: fixed;
+	top: 524px;
+	right: 20px;
+	color: #ffffffc2;
+}
+
+#text-1 {
+	position: fixed;
+	top: 400px;
+	right: 50px;
+	color: #fff;
+	font-size: 13px;
+	padding: 3px 6px 3px 6px;
+	border-radius: 50%;
+	font-weight: 700;
+	border: 3px solid #ffffff63;
+}
+
+#text-2 {
+	position: fixed;
+	top: 440px;
+	right: 51px;
+	color: #fff;
+	font-size: 13px;
+	padding: 3px 8px 3px 8px;
+	border-radius: 50%;
+	font-weight: 700;
+	border: 3px solid #ffffff63;
+}
+
+#text-3 {
+	position: fixed;
+	top: 480px;
+	right: 51px;
+	color: #fff;
+	font-size: 12px;
+	padding: 3px 8px 3px 8px;
+	border-radius: 50%;
+	font-weight: 700;
+	border: 3px solid #ffffff63;
+}
+
+#text-4 {
+	position: fixed;
+	top: 520px;
+	right: 51px;
+	color: #fff;
+	font-size: 12px;
+	padding: 3px 8px 3px 8px;
+	border-radius: 50%;
+	font-weight: 700;
+	border: 3px solid #ffffff63;
+}
