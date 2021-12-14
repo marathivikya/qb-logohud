@@ -23,20 +23,3 @@ window.addEventListener("message", function (event) {
     $("#u111-6").text(edata.date);
   }
 });
-
-$(document).on("keydown", function () {
-  if (event.repeat) {
-    return;
-  }
-  switch (event.keyCode) {
-    case 75: // K
-      $("#page").hide();
-      break;
-    case 75: // K
-      $("#page").show();
-      break;
-    case 75: // K
-      ControlPressed = true;
-      break;
-  }
-});
